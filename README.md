@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aashish-po/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aashish-po/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aashish-po/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Aashish-po/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aashish-po/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Aashish-po/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aashish-po/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aashish-po/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/Aashish-po/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aashish-po/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aashish-po/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Two Pointers
