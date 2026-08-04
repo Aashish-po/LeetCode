@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/Aashish-po/LeetCode/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Aashish-po/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Aashish-po/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Aashish-po/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/Aashish-po/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Aashish-po/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Aashish-po/LeetCode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Aashish-po/LeetCode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Aashish-po/LeetCode/tree/master/3620-network-recovery-pathways) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Aashish-po/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Aashish-po/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 ## Tree
 |  |
