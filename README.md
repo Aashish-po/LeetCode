@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Aashish-po/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Aashish-po/LeetCode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Aashish-po/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aashish-po/LeetCode/tree/master/1140-stone-game-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Aashish-po/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0115-distinct-subsequences](https://github.com/Aashish-po/LeetCode/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Aashish-po/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aashish-po/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1927-sum-game](https://github.com/Aashish-po/LeetCode/tree/master/1927-sum-game) |
