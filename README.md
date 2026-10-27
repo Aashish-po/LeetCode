@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aashish-po/LeetCode/tree/master/0001-two-sum) |
 | [0486-predict-the-winner](https://github.com/Aashish-po/LeetCode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashish-po/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0835-image-overlap](https://github.com/Aashish-po/LeetCode/tree/master/0835-image-overlap) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Aashish-po/LeetCode/tree/master/0001-two-sum) |
 | [1331-rank-transform-of-an-array](https://github.com/Aashish-po/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Aashish-po/LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Aashish-po/LeetCode/tree/master/1386-cinema-seat-allocation) |
