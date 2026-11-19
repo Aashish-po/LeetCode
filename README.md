@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashish-po/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Aashish-po/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashish-po/LeetCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aashish-po/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Aashish-po/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashish-po/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashish-po/LeetCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Aashish-po/LeetCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Aashish-po/LeetCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Aashish-po/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aashish-po/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aashish-po/LeetCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashish-po/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Aashish-po/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Aashish-po/LeetCode/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Aashish-po/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Aashish-po/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Aashish-po/LeetCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Aashish-po/LeetCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aashish-po/LeetCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashish-po/LeetCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
